@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **JavaScript, C++, React, Python**
-
 - 📫 How to reach me **satwikbhat1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
